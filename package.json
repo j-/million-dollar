@@ -1,0 +1,27 @@
+{
+  "name": "million-dollar",
+  "version": "1.0.0",
+  "description": "Super seret make a million dollars",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.9.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-/million-dollar.git"
+  },
+  "keywords": [
+    "million",
+    "dollars"
+  ],
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-/million-dollar/issues"
+  },
+  "homepage": "https://github.com/j-/million-dollar"
+}
